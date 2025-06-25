@@ -49,3 +49,6 @@ Data Pipeline: Filtering, Escalation, Normalization
         Extract clean text, remove footers/headers.
 
     Metadata: Append file name, last modified date, and owner to context.
+
+4. Proof of Concept
+5. Impact
