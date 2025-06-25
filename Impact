@@ -1,0 +1,8 @@
+Impact Evaluation
+Metric	Baseline	Target	Measurement Method
+Avg. Search Time	10 mins	<1 min	User feedback + query timestamps
+Error Rate	40% (manual)	<10%	Spot-check LLM vs. ground truth
+User Satisfaction	N/A	>80% positive	Survey (Likert scale)
+
+ROI Calculation:
+(Time Saved per Query × Avg. Queries/Day × Employee Cost/Hour) × Adoption %
