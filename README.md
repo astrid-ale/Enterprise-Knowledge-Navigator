@@ -3,7 +3,7 @@ AI-Powered Unified Search for Enterprise Cloud Data
 
 Project Goal
 
-Enable employees to retrieve information from company documents (Google Drive, Sheets, PDFs, etc.) via natural language queries, eliminating manual file searches while maintaining access control.
+Enable employees to retrieve information from company documents (Google Drive, Sheets, PDFs, etc.) via natural language queries, eliminating manual file searches while maintaining access control with google tools.
 
 Success Metrics:
 
