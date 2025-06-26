@@ -1,9 +1,9 @@
-# Enterprise-Knowledge-Navigator
+# Cloud-Knowledge-Navigator
 AI-Powered Unified Search for Enterprise Cloud Data
 
 Project Goal
 
-Enable employees to retrieve information from company documents (Google Drive, Sheets, PDFs, etc.) via natural language queries, eliminating manual file searches while maintaining access control with google tools.
+Enable users to retrieve information from stored cloud documents (Google Drive, Sheets, PDFs, etc.) via natural language queries, eliminating manual file searches while maintaining access control with google tools.
 
 Success Metrics:
 
