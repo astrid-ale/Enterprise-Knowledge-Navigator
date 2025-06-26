@@ -51,4 +51,6 @@ Data Pipeline: Filtering, Escalation, Normalization
     Metadata: Append file name, last modified date, and owner to context.
 
 4. Proof of Concept
+Presentation
+https://gamma.app/docs/Intelligent-Document-Retrieval-Your-Cloud-Data-Instantly-Searchab-f4z6b2vh7m36z0p
 5. Impact
